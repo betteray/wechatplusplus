@@ -1,0 +1,10 @@
+Package: me.thepapaya.wechatplusplus
+Name: wechatplusplus
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make wechat head image flip horizontal to better look.
+Maintainer: ray
+Author: ray
+Section: Tweaks
+Depiction: https://thepapaya.me/cydia/depictions/?p=me.thepapaya.wechatplusplus
